@@ -1,0 +1,29 @@
+.topPanel .form__form-group-datepicker button, input, optgroup, select, textarea {
+    border-width: 0 !important;
+    border:none;
+    line-height: 2.5;
+}
+.topWrapper{
+    display: flex;
+    /* border-width:1px; */
+    border: 1px solid lightgray;
+    text-align: center;
+}
+
+
+
+.css-yk16xz-control {
+  
+    border-color: hsl(0,0%,80%) !important;
+    border-radius: 4px;
+   
+    
+}
+
+.topWrapper {
+    display: flex;
+   
+    border: 1px solid lightgray;
+    text-align: center;
+    margin-left: -54px;
+}
